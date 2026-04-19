@@ -32,6 +32,10 @@ Font Awesome Icons
 
 Google Fonts (Poppins)
 
+## Screenshot
+<img width="1865" height="961" alt="Screenshot 2026-04-19 172152" src="https://github.com/user-attachments/assets/dd3a08ff-0c8f-4faf-b8eb-ac7ca4ad6874" />
+
+
 
 ## Project Structure
 mini-project-using-css/
